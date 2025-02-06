@@ -1,1 +1,1 @@
-Java Selenium project using POM with Page factory
+Java Selenium project 
